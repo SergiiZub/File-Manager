@@ -1,0 +1,14 @@
+.wrap{
+    float: left;
+}
+
+.open_file{
+    float: left;
+    width: 50%;
+}
+
+.file_manager{
+    width: 40%;
+    float: left;
+    padding-right: 50px;
+}
